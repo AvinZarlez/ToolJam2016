@@ -12,6 +12,10 @@ Here is a list of all the projects made at Tool Jam 2016.
  A simple extension to add Comment Snippets for C, Objective-C and CPP and Java
 Created by Tobiah Zarlez
 
+- [HoloRated](https://github.com/JonECG/HoloRated)
+
+<<< Description TBD >>>
+
 - [Insert Your Project Here](Insert Link Here)
 
  Describe Project Here (note the opening space as per Markdown format)
