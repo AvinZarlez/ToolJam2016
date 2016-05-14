@@ -14,15 +14,15 @@ Created by Tobiah Zarlez
 
 - [HoloRated](https://github.com/JonECG/HoloRated)
 
-<<< Description TBD >>>
+ <<< Description TBD >>>
 
 - [Landr](https://github.com/BerniceChua/landr)
 
-<<< Description TBD >>>
+ <<< Description TBD >>>
 
 - [One Man Show](https://github.com/Knoopx/playcrafting-hackathon/) 
 
-<<< Description TBD >>>
+ <<< Description TBD >>>
 
 - [Insert Your Project Here](Insert Link Here)
 
