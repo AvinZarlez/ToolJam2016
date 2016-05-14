@@ -7,7 +7,7 @@ Tool Jam was a hackathon for developing the game development tools presented by 
 
 Here is a list of all the projects made at Tool Jam 2016.
 
-- [Comment Snippets](https://github.com/TobiahZ/vscode-comment-snippets)
+- [VSCode Comment Snippets](https://github.com/TobiahZ/vscode-comment-snippets)
 
  A simple extension to add Comment Snippets for C, Objective-C and CPP and Java
 Created by Tobiah Zarlez
