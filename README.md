@@ -1,35 +1,24 @@
-# <<< Project Name Here >>>
+# Tool Jam 2016 #
 
-## About
+## What is Tool Jam? ##
+Tool Jam was a hackathon for developing the game development tools presented by [Playcrafting](https://www.playcrafting.com/) and [Microsoft](https://developer.microsoft.com/) and took place in San Francisco on May 13th through 15th.
 
-<<< Explain project here >>>
+## Projects ##
 
-### Video Pitch
+Here is a list of all the projects made at Tool Jam 2016.
 
-<<< Tobiah Zarlez will submit a pull request to submit the video link once it is uploaded >>>
+- [Comment Snippets](https://github.com/TobiahZ/vscode-comment-snippets)
+A simple extension to add Comment Snippets for C, Objective-C and CPP and Java
+Created by Tobiah Zarlez
 
-## How did this project come about?
+## Keynote ##
 
-This project was created at Tool Jam 2016, a hackathon for creating game development tools.
+Rewatch Tool Jam's keynote here.
 
-Tool Jam was presented by [Playcrafting](https://www.playcrafting.com/) and [Microsoft](https://developer.microsoft.com/) and took place in San Francisco on May 13th through 15th.
+<<< Tobiah will submit link later >>>
 
-### Who made this?
+## Closing ceremonies ##
 
-<<< Tell people about yourselves! >>>
+Rewatch Tool Jam's closing ceremonies here.
 
-## Contributing
-
-<<< Include information here for how people can contribute to this project in the future >>>
-
-## Feedback
-
-<<< How can people give feedback? >>>
-
-* Include a link to your [GitHub Issues](https://github.com/YourGitHubUserName/YourGitHubProjectName/issues).
-
-## License
-
-[MIT](LICENSE)
-
-<<< Remember to edit the license to include your name! >>>
+<<< Tobiah will submit link later >>>
