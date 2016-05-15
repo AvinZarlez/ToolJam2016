@@ -9,8 +9,8 @@ Here is a list of all the projects made at Tool Jam 2016.
 
 - [VSCode Comment Snippets](https://github.com/TobiahZ/vscode-comment-snippets)
 
- A simple extension to add Comment Snippets for C, Objective-C and CPP and Java
-Created by Tobiah Zarlez
+ A simple extension to add Comment Snippets for C, Objective-C and CPP and Java.
+ Created by Tobiah Zarlez
 
 - [HoloRated](https://github.com/JonECG/HoloRated)
 
@@ -27,6 +27,10 @@ Created by Tobiah Zarlez
 - [DataFu Hs](https://github.com/datafu/hs)
 
  <<< Description TBD >>>
+ 
+- [Stream Redirector](https://github.com/bctaucsd/steamredirector)
+ A quick tool that allows you to create a landing page that will point users toward the Steam page of your game, with a link to directly launch the Steam Application.
+ Created by Brian Ta
 
 - [Insert Your Project Here](Insert Link Here)
 
