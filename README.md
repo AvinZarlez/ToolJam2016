@@ -14,7 +14,7 @@ Here is a list of all the projects made at Tool Jam 2016.
 
 - [HoloRated](https://github.com/JonECG/HoloRated)
 
- <<< Description TBD >>>
+ An extensible and event-driven library within Unity designed to get user feedback in HoloLens applications and games.
 
 - [Landr](https://github.com/BerniceChua/landr)
 
