@@ -23,6 +23,10 @@ Created by Tobiah Zarlez
 - [One Man Show](https://github.com/Knoopx/playcrafting-hackathon/) 
 
  <<< Description TBD >>>
+ 
+- [DataFu Hs](https://github.com/datafu/hs)
+
+ <<< Description TBD >>>
 
 - [Insert Your Project Here](Insert Link Here)
 
