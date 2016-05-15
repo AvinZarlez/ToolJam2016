@@ -18,7 +18,8 @@ Created by Tobiah Zarlez
 
 - [Landr](https://github.com/BerniceChua/landr)
 
- <<< Description TBD >>>
+ A landing page generator for indie game developers.
+
 
 - [One Man Show](https://github.com/Knoopx/playcrafting-hackathon/) 
 
