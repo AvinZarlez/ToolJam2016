@@ -18,7 +18,8 @@ Here is a list of all the projects made at Tool Jam 2016.
 
 - [Landr](https://github.com/BerniceChua/landr)
 
- <<< Description TBD >>>
+ A landing page generator for indie game developers.
+
 
 - [One Man Show](https://github.com/Knoopx/playcrafting-hackathon/) 
 
