@@ -32,9 +32,9 @@ Here is a list of all the projects made at Tool Jam 2016.
  A quick tool that allows you to create a landing page that will point users toward the Steam page of your game, with a link to directly launch the Steam Application.
  Created by Brian Ta
 
-- [Insert Your Project Here](Insert Link Here)
+- [Promo Code Generator](https://github.com/pujariamol/promo_code_generator)
 
- Describe Project Here (note the opening space as per Markdown format)
+ <<< Description TBD >>>
 
 ## Keynote ##
 
