@@ -20,7 +20,6 @@ Here is a list of all the projects made at Tool Jam 2016.
 
  A landing page generator for indie game developers.
 
-
 - [RoboTunes](https://github.com/knoopx/robotunes.js) 
 
  Procedural music generation for javascript using Web Audio
@@ -39,12 +38,4 @@ Here is a list of all the projects made at Tool Jam 2016.
 
 ## Keynote ##
 
-Rewatch Tool Jam's keynote here.
-
-<<< Tobiah will submit link later >>>
-
-## Closing ceremonies ##
-
-Rewatch Tool Jam's closing ceremonies here.
-
-<<< Tobiah will submit link later >>>
+Rewatch Tool Jam's keynote here. <<<Link will be added once video is online.>>>
