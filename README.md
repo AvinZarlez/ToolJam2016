@@ -21,13 +21,9 @@ Here is a list of all the projects made at Tool Jam 2016.
  A landing page generator for indie game developers.
 
 
-- [One Man Show](https://github.com/Knoopx/playcrafting-hackathon/) 
+- [RoboTunes](https://github.com/knoopx/robotunes.js) 
 
- <<< Description TBD >>>
- 
-- [DataFu Hs](https://github.com/datafu/hs)
-
- <<< Description TBD >>>
+ Procedural music generation for javascript using Web Audio
  
 - [Stream Redirector](https://github.com/bctaucsd/steamredirector)
  A quick tool that allows you to create a landing page that will point users toward the Steam page of your game, with a link to directly launch the Steam Application.
@@ -35,7 +31,7 @@ Here is a list of all the projects made at Tool Jam 2016.
 
 - [Promo Code Generator](https://github.com/pujariamol/promo_code_generator)
 
- <<< Description TBD >>>
+ Promote code generator for game developers showing their games at conventions
  
 - [Eyes Status Game Control](https://github.com/mvacosmos/eyes_status_game_control)
 
