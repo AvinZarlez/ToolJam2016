@@ -38,5 +38,6 @@ Here is a list of all the projects made at Tool Jam 2016.
 
 ## Keynote ##
 
-Rewatch Tool Jam's keynote here.
-<<< Link will be added once video is online. >>>
+Rewatch Tool Jam's keynote [here](https://channel9.msdn.com/Events/ToolJam/2016/Opening-Keynote "Tool Jam 2016 Opening Keynote").
+
+[![Tool Jam 2016 Opening Keynote](http://video.ch9.ms/ch9/4848/012f1cb6-bc59-4c50-97eb-c02dc7a04848/keynote_Custom.jpg)](https://channel9.msdn.com/Events/ToolJam/2016/Opening-Keynote "Tool Jam 2016 Opening Keynote")
