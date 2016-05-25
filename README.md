@@ -24,7 +24,8 @@ Here is a list of all the projects made at Tool Jam 2016.
 
  Procedural music generation for javascript using Web Audio
  
-- [Stream Redirector](https://github.com/bctaucsd/steamredirector)
+- [Steam Redirector](https://github.com/bctaucsd/steamredirector)
+
  A quick tool that allows you to create a landing page that will point users toward the Steam page of your game, with a link to directly launch the Steam Application.
  Created by Brian Ta
 
